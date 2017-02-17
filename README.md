@@ -1,4 +1,4 @@
-# Neil Vass's marvolous jira calendar tool
+# Neil Vass's marvellous jira calendar tool
 
 You will need to access the science_config.py and add the email addresses of the people in your team.  Once this is done:
 
@@ -9,3 +9,4 @@ You will need to access the science_config.py and add the email addresses of the
 * Edit the clever Confluence page, delete the current planner, then insert markup and paste in the contents of “teamtable.txt”
 * Bask in everyone’s admiration.
 
+I take no credit or responsibility for this code - i am merely hosting it until the creator gets on Github!
